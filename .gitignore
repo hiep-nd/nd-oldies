@@ -1,4 +1,4 @@
 *~
 .DS_Store
-NDOldie.xcodeproj/project.xcworkspace/xcuserdata/**
-NDOldie.xcodeproj/xcuserdata/**
+**/xcuserdata/**
+Pods/**
